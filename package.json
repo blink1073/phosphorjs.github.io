@@ -1,0 +1,26 @@
+{
+  "name": "phosphorjs.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phosphorjs/phosphorjs.github.io.git"
+  },
+  "author": "PhosphorJS Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phosphorjs/phosphorjs.github.io/issues"
+  },
+  "homepage": "https://github.com/phosphorjs/phosphorjs.github.io",
+  "devDependencies": {
+    "metalsmith": "^1.5.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.7.0",
+    "handlebars": "^2.0.0-alpha.2",
+    "metalsmith-collections": "^0.4.0"
+  }
+}

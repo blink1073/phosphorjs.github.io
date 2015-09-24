@@ -1,2 +1,8 @@
 .DS_Store
 node_modules
+<<<<<<< HEAD
+=======
+build
+examples/*/bundle.js
+examples/*/index.js
+>>>>>>> c6cf9655d4df6aede9edc79434fe61ff15ebd42c
